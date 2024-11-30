@@ -1,4 +1,4 @@
-package com.zhangyj.java.exception;
+package com.zhangyj.java.base;
 
 
 import lombok.Getter;
